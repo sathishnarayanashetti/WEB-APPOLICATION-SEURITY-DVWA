@@ -77,7 +77,7 @@ All screenshots of the practical exercises are available in the **ScreenShots** 
 
 ## 👨‍💻 Author
 
-**Name:** Vanapalli Naga Nandini
+**Name:** Naraynashetti Sathish Kumar
 
 **Project:** Web Application Security Testing using DVWA
 
